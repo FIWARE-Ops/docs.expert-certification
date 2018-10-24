@@ -46,7 +46,7 @@ solutions/platforms Discussion on NGSI interfaces Discussion on â€œFIWARE-readyâ
 technologies
 
 Further details can be found within the
-[documentation]](https://fiware-expert-certification.rtfd.io)
+[documentation](https://fiware-expert-certification.rtfd.io)
 
 ## Support
 
