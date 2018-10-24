@@ -1,0 +1,12 @@
+site_name: Experts Certification
+site_description: FIWARE Experts Certification
+docs_dir: doc/
+extra_css: ["https://fiware.org/style/fiware_readthedocs.css"]
+repo_url: https://github.com/Fiware/expert-certification
+google_analytics: ['UA-80297547-1', 'fiware-expert-certification.readthedocs.io']
+theme: readthedocs
+pages:
+  - Home: index.md
+
+  - 'FIWARE Experts Certification': 'experts.md'
+  - 'Appendix': 'appendix.md'
