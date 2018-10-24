@@ -1,5 +1,7 @@
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-expert-certification.rtfd.io)
 [![License: MIT](https://img.shields.io/github/license/fiware/catalogue.svg)](https://creativecommons.org/licenses/by/4.0/)
+<br/>
+[![Documentation](https://img.shields.io/readthedocs/fiware-expert-certification.svg)](https://fiware-expert-certification.rtfd.io)
 
 This guide is describes the examination procedure to be followed when certifing
 a candidate as a FIWARE expert.
