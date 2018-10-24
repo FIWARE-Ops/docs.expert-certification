@@ -1,7 +1,7 @@
 This guide is describes the examination procedure to be followed when certifing
 a candidate as a FIWARE expert.
 
-An expert is recognised as having fulfilled the folliowing:
+An expert is recognised as having fulfilled the following:
 
 -   They have made a solid recognised contribution to the FIWARE Community
 -   They have a thorough cross-chapter understanding of all aspects of FIWARE
