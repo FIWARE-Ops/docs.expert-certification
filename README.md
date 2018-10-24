@@ -44,9 +44,12 @@ competence in FIWARE.
 
 The face-to-face examination will consist of the following parts:
 
-Discussion of the body-of-work Teaching / Demonstration of one or several
-aspects of FIWARE Discussion on correct Architecture for “Powered by FIWARE”
-solutions/platforms Discussion on NGSI interfaces Discussion on “FIWARE-ready”
+-   Discussion of the body-of-work
+-   Teaching / Demonstration of one or several
+aspects of FIWARE
+-   Discussion on correct Architecture for “Powered by FIWARE”
+solutions/platforms
+-   Discussion on NGSI interfaces Discussion on “FIWARE-ready”
 technologies
 
 Further details can be found within the
