@@ -55,13 +55,16 @@ ensures that the standards are consistent
 
 -   A current marking sheet and a set of questions will be defined by the
     standards committee <br/><br/>
--   Each mark on the mark sheet will consist of two types of sections: _ General
-    _ Essential <br/><br/>
--   The following sections have been defined: _ Discussion of the body-of-work _
-    Teaching/ Demonstration of one or several aspects of FIWARE _ Discussion on
-    correct Architecture of a “Powered by FIWARE” solutions/platform _
-    Discussion on NGSI interfaces \* Discussion on “FIWARE-ready” technologies
-    <br/><br/>
+-   Each mark on the mark sheet will consist of two types of sections:
+    -   General
+    -   Essential <br/><br/>
+-   The following sections have been defined:
+    -   Discussion of the body-of-work
+    -   Teaching/ Demonstration of one or several aspects of FIWARE:
+    -   Discussion on correct Architecture of a “Powered by FIWARE”
+        solutions/platform
+    -   Discussion on NGSI interfaces - Discussion on “FIWARE-ready”
+        technologies <br/><br/>
 -   Discussion on the FIWARE Catalogue <br/><br/>
 -   Each section will be graded over a series of subsections. Examiners will be
     provided with a marking sheet for each examination. <br/><br/>
