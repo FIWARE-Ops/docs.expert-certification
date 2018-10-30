@@ -2,9 +2,9 @@
 
 <span/>
 
--   **Candidate** - someone who wishes to be certified as a FIWARE Expert FIWARE
-    Expert - someone registered as competent in FIWARE technologies - i.e. a
-    successful candidate
+-   **Candidate** - someone who wishes to be certified as a FIWARE Expert
+-   **FIWARE Expert** - someone registered as competent in FIWARE technologies -
+    i.e. a successful candidate
 -   **Examiner** - A registered FIWARE Expert who has been accepted to judge
     FIWARE Expert certifications
 -   **Trainee Examiner** - A registered FIWARE Expert who wishes to become an
