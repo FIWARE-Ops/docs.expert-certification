@@ -30,7 +30,7 @@ and so on.
 
 ### Background reading
 
-The following documents are suggested as background reading:
+The following documents are suggested as essential background reading:
 
 -   [FIWARE Catalogue](https://www.fiware.org/developers/catalogue/) - and all the linked documentation
 -   [Orion Context Broker](https://fiware-orion.readthedocs.io/en/master/) - the core component of FIWARE
