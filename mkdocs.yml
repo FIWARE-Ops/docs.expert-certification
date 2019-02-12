@@ -9,4 +9,5 @@ pages:
   - Home: index.md
 
   - 'FIWARE Experts Certification': 'experts.md'
+  - 'Definitions and Summary': 'summary.md'
   - 'Appendix': 'appendix.md'
