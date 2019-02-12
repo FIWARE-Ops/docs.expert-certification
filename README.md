@@ -1,7 +1,7 @@
 # FIWARE Expert Examination Procedures
 
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-expert-certification.rtfd.io)
-[![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/catalogue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/expert-certification.svg)](https://creativecommons.org/licenses/by/4.0/)
 <br/>
 [![Documentation](https://img.shields.io/readthedocs/fiware-expert-certification.svg)](https://fiware-expert-certification.rtfd.io)
 [![Build Status](https://img.shields.io/travis/Fiware/academy.svg)](https://travis-ci.org/Fiware/academy)
