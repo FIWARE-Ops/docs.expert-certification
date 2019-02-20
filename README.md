@@ -40,9 +40,10 @@ A candidate must submit a body of work for review which defines their basic comp
 The face-to-face examination will consist of the following parts:
 
 -   Discussion of the body-of-work
--   Teaching / Demonstration of one or several aspects of FIWARE
--   Discussion on correct Architecture for “Powered by FIWARE” solutions/platforms
--   Discussion on NGSI interfaces Discussion on “FIWARE-ready” technologies
+-   Discussion on NGSI interfaces
+-   Discussion on the FIWARE Catalogue
+-   Discussion on correct Architecture of a “Powered by FIWARE” solutions/platform
+-   Discussion on “FIWARE-ready” technologies
 
 Further details can be found within the [documentation](https://fiware-expert-certification.rtfd.io)
 
