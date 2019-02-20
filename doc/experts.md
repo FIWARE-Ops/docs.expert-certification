@@ -46,10 +46,10 @@ examination procedure open and transparent, and ensures that the standards are c
     -   Essential <br/><br/>
 -   The following sections have been defined:
     -   Discussion of the body-of-work
-    -   Teaching/ Demonstration of one or several aspects of FIWARE:
     -   Discussion on correct Architecture of a “Powered by FIWARE” solutions/platform
-    -   Discussion on NGSI interfaces - Discussion on “FIWARE-ready” technologies <br/><br/>
--   Discussion on the FIWARE Catalogue <br/><br/>
+    -   Discussion on NGSI interfaces
+    -   Discussion on “FIWARE-ready” technologies
+    -   Discussion on the FIWARE Catalogue <br/><br/>
 -   Each section will be graded over a series of subsections. Examiners will be provided with a marking sheet for each
     examination. <br/><br/>
 -   During each section of the examination, each examiner should grade the section as A- Excellent Pass, B- Good Pass,
