@@ -25,7 +25,7 @@ and therefore the candidate needs the background knowledge in all areas.
 -   What is the difference between a **subscription** and a **registration**?
 -   What are **subscriptions** used for? Give a practical example.
 -   Describe a scenario when would you use the FIWARE **header** and **service path**.
--   What is the point of the **metadata** attribute?
+-   What is the point of the **metadata** element?
 -   What is the relationship between **metadata** in an NGSI entity and **linked data**?
 -   What makes a good/poor candidate for a data entity?
 -   What sort of items should be stored as attributes?
@@ -34,12 +34,15 @@ and therefore the candidate needs the background knowledge in all areas.
 -   Justify an example of a **subscription filtering on metadata** as opposed to attributes.
 -   What are **registrations** used for? Give a practical example.
 -   How do **registrations** work? Will the value received always be current?
--   What NGSI operations would be required to enforce **geofencing**? (i.e. raising an alert whenever a sensor is
+-   What NGSI operations would be required to enforce **geofencing**? (i.e. raising an alert whenever a sensor/thing is
     detected out-of-bounds) How should the entities of such sensor data be structured?
 -   What is the purpose of the `id` attribute? Does the `id` of each entity have to be unique? What is the purpose of
     the `type` attribute? When is it required?
 -   Imagine I have a data structure including an address. How do I structure an entity so that I know that the street,
     the town etc. are known to be all part of one address?
+-   Can you give an example of a geoquery? Can you describe the parameters you need to provide when defining a geoquery?
+-   How do you convey in NGSI that an entity is associated (linked) to another entity?
+-   What is NGSI-LD?
 
 ## 3) Questions on the Current FIWARE Catalogue
 
