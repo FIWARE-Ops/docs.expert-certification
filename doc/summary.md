@@ -41,5 +41,5 @@ The following documents are suggested as essential background reading:
 -   [FIWARE Tutorials](http://fiware-tutorials.readthedocs.io/) - introduction on how to use core components, IoT Agents
     and basic security.
 -   [FIWARE Data Models](https://fiware-datamodels.readthedocs.io/en/latest/)
--   [FIWARE IoT Device Testing](https://fiware-ready-iot-devices-validation.readthedocs.io/en/latest/) - defining FIWARE
-    ready
+-   [FIWARE Marketplace Testing](https://fiware-requirements.readthedocs.org/) - defining _"FIWARE
+    ready"_ and _"powered by FIWARE"_
