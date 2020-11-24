@@ -4,7 +4,7 @@
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/expert-certification.svg)](https://creativecommons.org/licenses/by/4.0/)
 <br/>
 [![Documentation](https://img.shields.io/readthedocs/fiware-expert-certification.svg)](https://fiware-expert-certification.rtfd.io)
-[![Build Status](https://img.shields.io/travis/FIWARE/academy.svg)](https://travis-ci.org/FIWARE/academy)
+[![CI](https://github.com/FIWARE/expert-certification/workflows/CI/badge.svg)](https://github.com/FIWARE/expert-certification/actions?query=workflow%3ACI)
 
 This guide is describes the examination procedure to be followed when certifing a candidate as a FIWARE expert.
 
