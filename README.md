@@ -17,8 +17,8 @@ An expert is recognised as having fulfilled the following:
 -   They are up-to-date with all aspects of the NGSI inference and other FIWARE fundamentals
 -   They have a solid understanding of what it takes to make a product FIWARE-ready
 
-| :books: [Documentation](https://fiware-expert-certification.rtfd.io) |
-| -------------------------------------------------------------------- |
+|  :inbox_tray: <br> [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform)  | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
 
 ## Examination Procedure
