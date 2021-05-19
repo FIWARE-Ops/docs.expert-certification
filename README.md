@@ -14,9 +14,9 @@ An expert is recognised as having fulfilled the following:
 -   They have a thorough cross-chapter understanding of all aspects of FIWARE including the latest developments in the
     catalogue
 -   They are able to describe how to architect FIWARE-based solutions properly at scale
--   They are up-to-date with all aspects of the NGSI inference and other FIWARE fundamentals
+-   They are up-to-date with all aspects of the NGSI-v2 and NGSI-LD interfaces and other FIWARE fundamentals
 -   They have a solid understanding of what it takes to make a product FIWARE-ready
-
+ 
 |  :inbox_tray: <br> [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform)  | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
