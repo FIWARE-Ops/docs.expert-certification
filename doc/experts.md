@@ -16,7 +16,7 @@
 -   The board of examiners is drawn from three groups:
 
     -   Certified FIWARE Experts - usually associated to a FIWARE iHub
-    -   Members of the Technical Steering Committee (TSC) of the FIWWARE Foundation.
+    -   Members of the Technical Steering Committee (TSC) of the FIWARE Foundation.
     -   Technical employees of the FIWARE Foundation itself
 
 -   Candidate Examinations are to be judged by a board of examiners, usually consisting of three members
