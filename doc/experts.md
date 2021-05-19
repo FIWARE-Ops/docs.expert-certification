@@ -13,12 +13,19 @@
 
 ## The Board of Examiners
 
--   Candidate Examinations are to be judged by a board of three examiners
+-   The board of examiners is drawn from three groups:
+
+    -   Certified FIWARE Experts - usually associated to a FIWARE iHub
+    -   Members of the Technical Steering Committee (TSC) of the FIWWARE Foundation.
+    -   Technical employees of the FIWARE Foundation itself
+
+
+-   Candidate Examinations are to be judged by a board of examiners, usually consisting of three members
 
 In the ideal case, any decisions made by the board will be unanimous, however since there are an odd number of board
 members any decisions will always have a majority and minority. This can then be discussed.
 
--   The board of examiners are chosen at random from the current list of examiners
+-   The board of examiners are selected at random from the current list of examiners
 
 Randomizing the board to avoid bias or collusion.
 
@@ -68,6 +75,7 @@ Which sections are essential and which are general is up for discussion
 
 The range A-E allows for more fine distinctions than just pass fail and ensures trainee examiners have a common
 understanding of what is and what isn’t accepted.
+
 
 ## Candidate Examination Procedure
 
@@ -157,12 +165,22 @@ that part of the procedure is to run a certification test for FIWARE-ready IoT d
 real devices and/or passing/failing candidates from impact Growth and so on. It should be possible for a candidate to
 recognise and describe the minimum threshold.
 
+## Alternative certification process - FIWARE Expert by proclaimation
+
+In rare cases, the FIWARE Foundation may choose to recognise an individual as a FIWARE Expert without following the 
+process defined above, but simply recognising the body of work they have achieved as sufficient. In the case of a 
+_FIWARE Expert by proclaimation_ the following procedure is used:
+
+-   The individual concerned can only be proposed as a _FIWARE Expert by proclaimation_ by a member of the board of 
+    officers of the FIWARE Foundation (CEO, COO, CTO or CMO)
+-   The full board of officers of the FIWARE Foundation must agree unanimously with the proposal.
+
 ## Trainee Examiners
 
 A FIWARE Expert may request to be join to the board of examiners. The trainee examiner should be invited to join a
 series of FIWARE Expert boards and take part in discussions and markings as a non-voting member. Regarding the
 transition of trainee examiner to examiner, this should typically occur after a set number of similar markings to the
-rest of the board (e.g. 3 non-voting boards with similar marks should be sufficient.)
+rest of the board.
 
 ## Standards Committee
 
