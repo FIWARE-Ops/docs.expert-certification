@@ -165,13 +165,13 @@ that part of the procedure is to run a certification test for FIWARE-ready IoT d
 real devices and/or passing/failing candidates from impact Growth and so on. It should be possible for a candidate to
 recognise and describe the minimum threshold.
 
-## Alternative certification process - FIWARE Expert by proclaimation
+## Alternative certification process - FIWARE Expert by proclamation
 
 In rare cases, the FIWARE Foundation may choose to recognise an individual as a FIWARE Expert without following the 
 process defined above, but simply recognising the body of work they have achieved as sufficient. In the case of a 
-_FIWARE Expert by proclaimation_ the following procedure is used:
+_FIWARE Expert by proclamation_ the following procedure is used:
 
--   The individual concerned can only be proposed as a _FIWARE Expert by proclaimation_ by a member of the board of 
+-   The individual concerned can only be proposed as a _FIWARE Expert by proclamation_ by a member of the board of 
     officers of the FIWARE Foundation (CEO, COO, CTO or CMO)
 -   The full board of officers of the FIWARE Foundation must agree unanimously with the proposal.
 
