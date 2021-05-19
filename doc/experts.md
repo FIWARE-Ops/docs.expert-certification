@@ -19,7 +19,6 @@
     -   Members of the Technical Steering Committee (TSC) of the FIWWARE Foundation.
     -   Technical employees of the FIWARE Foundation itself
 
-
 -   Candidate Examinations are to be judged by a board of examiners, usually consisting of three members
 
 In the ideal case, any decisions made by the board will be unanimous, however since there are an odd number of board
@@ -75,7 +74,6 @@ Which sections are essential and which are general is up for discussion
 
 The range A-E allows for more fine distinctions than just pass fail and ensures trainee examiners have a common
 understanding of what is and what isn’t accepted.
-
 
 ## Candidate Examination Procedure
 
@@ -167,12 +165,12 @@ recognise and describe the minimum threshold.
 
 ## Alternative certification process - FIWARE Expert by proclamation
 
-In rare cases, the FIWARE Foundation may choose to recognise an individual as a FIWARE Expert without following the 
-process defined above, but simply recognising the body of work they have achieved as sufficient. In the case of a 
+In rare cases, the FIWARE Foundation may choose to recognise an individual as a FIWARE Expert without following the
+process defined above, but simply recognising the body of work they have achieved as sufficient. In the case of a
 _FIWARE Expert by proclamation_ the following procedure is used:
 
--   The individual concerned can only be proposed as a _FIWARE Expert by proclamation_ by a member of the board of 
-    officers of the FIWARE Foundation (CEO, COO, CTO or CMO)
+-   The individual concerned can only be proposed as a _FIWARE Expert by proclamation_ by a member of the board of
+    officers of the FIWARE Foundation (C.E.O, C.O.O, C.T.O or C.M.O)
 -   The full board of officers of the FIWARE Foundation must agree unanimously with the proposal.
 
 ## Trainee Examiners

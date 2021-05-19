@@ -1,4 +1,4 @@
-# Expert Examination Procedures<img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left"> 
+# Expert Examination Procedures<img src="https://fiware.github.io//catalogue/img/fiware-black.png" width="145" align="left">
 
 [![Documentation](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/documentation.svg)](https://fiware-expert-certification.rtfd.io)
 [![License: CC-BY-4.0](https://img.shields.io/github/license/fiware/expert-certification.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -16,10 +16,9 @@ An expert is recognised as having fulfilled the following:
 -   They are able to describe how to architect FIWARE-based solutions properly at scale
 -   They are up-to-date with all aspects of the NGSI-v2 and NGSI-LD interfaces and other FIWARE fundamentals
 -   They have a solid understanding of what it takes to make a product FIWARE-ready
- 
-|  :inbox_tray: <br> [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform)  | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |
-| -------------------------------------------------------------------- | -------------------------------------------------------------------- |
 
+| :inbox_tray: <br> [**Application Form**](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform) | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 ## Examination Procedure
 
