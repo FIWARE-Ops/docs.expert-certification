@@ -45,5 +45,14 @@
 		"*.yml": [
 			"prettier --no-config --write"
 		]
+	},
+	"remarkConfig": {
+		"settings": {
+			"bullet": "-",
+			"paddedTable": true
+		},
+		"plugins": [
+			"remark-preset-lint-recommended"
+		]
 	}
 }
