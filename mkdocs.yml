@@ -4,8 +4,9 @@ docs_dir: doc/
 extra_css: ["https://www.fiware.org/style/fiware_readthedocs.css", "https://www.fiware.org/style/fiware_readthedocs_neutral.css"]
 repo_url: https://github.com/Fiware/expert-certification
 google_analytics: ['UA-80297547-1', 'fiware-expert-certification.readthedocs.io']
-theme: readthedocs
-pages:
+theme:
+  name: readthedocs
+nav:
   - Home: index.md
 
   - 'FIWARE Experts Certification': 'experts.md'
