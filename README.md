@@ -8,31 +8,42 @@
 
 This guide is describes the examination procedure to be followed when certifing a candidate as a FIWARE expert.
 
-An expert is recognised as having fulfilled the following:
+## FIWARE Expert
 
--   They have made a solid recognised contribution to the FIWARE Community
+A FIWARE Expert is recognised as having fulfilled the following:
+
+-   They have made a solid recognised contribution to the **FIWARE Community**
 -   They have a thorough cross-chapter understanding of all aspects of FIWARE including the latest developments in the
     catalogue
 -   They are able to describe how to architect FIWARE-based solutions properly at scale
 -   They are up-to-date with all aspects of the NGSI-v2 and NGSI-LD interfaces and other FIWARE fundamentals
 -   They have a solid understanding of what it takes to make a product FIWARE-ready
 
+
 | :inbox_tray: <br> [Application<br>Form](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform) | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |  :movie_camera: <br> [Mock Exam<br>Walkthrough](https://www.youtube.com/watch?v=6_JLn-69Z_8) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
+
+## Local Expert in B2B Data Spaces
+
+A modified exam process is used certifing a candidate as a Local Expert in B2B Data Spaces **LEDBS**.
+
+An LEDBS is recognised as having fulfilled the following:
+
+-   They have made a solid recognised contribution to the FIWARE Community **or Data Spaces in General**
+-   They have a thorough cross-chapter understanding of all aspects of FIWARE including the latest developments in the
+    catalogue
+-   They are able to describe how to architect FIWARE-based solutions properly at scale
+-   They are up-to-date with all aspects of the **NGSI-LD** interface and other FIWARE fundamentals
+-   They have a **basic** understanding of what it takes to make a product FIWARE-ready
+
+The LEDBS marking scheme for the FIWARE element differs from  the standard FIWARE Expert Exam. In general, LEBDS knowledge
+is broader but more shallow and also includes a separate examination describing correct usage of iSHARE and the
+concepts of distributed trust.
+
 ## Examination Procedure
 
-The examination process consists of two parts - a body of work and a face-to-face interview.
-
-### Submitting a body of Work
-
-A candidate must submit a body of work for review which defines their basic competence in FIWARE.
-
--   Each item from the body of work should be available publicly and linked to the online presence of the candidate.
--   If the body of work is not public, the examiners must sign a non-disclosure agreement, and the discussion of the
-    body-of-work may take place _in camera_.
--   The examiners will review the body of work prior to the examination and decide if it is sufficient for the candidate
-    to proceed. If it is not judged to be sufficient, amendments/additions will be requested prior to the examination
+The examination process consists of a face-to-face interview.
 
 ### Face-to-Face Interview
 
