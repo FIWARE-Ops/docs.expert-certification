@@ -12,7 +12,7 @@ An expert is recognised as having fulfilled the following:
 
 ### Webinar: Passing the FIWARE Experts Exam
 
-<p><a href="https://www.youtube.com/watch?v=6_JLn-69Z_8"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/experts.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=6_JLn-69Z_8"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/experts.png"></a></p>
 
 
 The webinar provides a walkthrough of the examination process and explains how it is run, and is designed to help
@@ -21,7 +21,7 @@ candidates understand the level of answers needed in order to pass with flying c
 ### Webinar: Local Expert in B2B Data Sharing
 
 
-<p><a href="https://www.youtube.com/watch?v=J38N832HRjM"><img style="padding-left:50px;" src="https://fiware.github.io/academy/img/lebds.png"></a></p>
+<p><a href="https://www.youtube.com/watch?v=J38N832HRjM"><img style="padding-left:50px;" src="https://fiware-ops.github.io/docs.academy/img/lebds.png"></a></p>
 
 The LEDBS examination combines elements of the FIWARE Expert exam with additional tests on data sharing and distributed trust using
 the iSHARE framework. This companion webinar compares and contrasts the LEDBS requirements against a standard FIWARE Expert exam.
