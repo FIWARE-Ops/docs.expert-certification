@@ -20,7 +20,7 @@ A FIWARE Expert is recognised as having fulfilled the following:
 -   They have a solid understanding of what it takes to make a product FIWARE-ready
 
 
-| :inbox_tray: <br> [Application<br>Form](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform) | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |  :movie_camera: <br> [Mock Exam<br>Walkthrough](https://www.youtube.com/watch?v=6_JLn-69Z_8) |
+| :inbox_tray: <br> [Application<br>Form](https://docs.google.com/forms/d/e/1FAIpQLSdtShb-fMuLbYbd3f_fRmdoyHAh9KvP1v5Yhy0Yvz9tGRxVCw/viewform) | :books: <br/> [Documentation](https://fiware-expert-certification.rtfd.io) |  :movie_camera: <br> [Expert Mock Exam<br>Walkthrough](https://www.youtube.com/watch?v=6_JLn-69Z_8) |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 
 
@@ -37,9 +37,14 @@ An LEDBS is recognised as having fulfilled the following:
 -   They are up-to-date with all aspects of the **NGSI-LD** interface and other FIWARE fundamentals
 -   They have a **basic** understanding of what it takes to make a product FIWARE-ready
 
-The LEDBS marking scheme for the FIWARE element differs from  the standard FIWARE Expert Exam. In general, LEBDS knowledge
+For the FIWARE element, the LEDBS marking scheme differs from  he standard FIWARE Expert Exam. In general, LEBDS knowledge
 is broader but more shallow and also includes a separate examination describing correct usage of iSHARE and the
 concepts of distributed trust.
+
+|  :movie_camera: <br> [LEBDS Mock Exam<br>Walkthrough](https://www.youtube.com/watch?v=J38N832HRjM) |
+| ---------------------------------------------------------------------------------------------------| 
+
+
 
 ## Examination Procedure
 
